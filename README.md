@@ -1,0 +1,2 @@
+# POV_LED_PCB
+平面有128LED，竖面有64led的旋转LED
